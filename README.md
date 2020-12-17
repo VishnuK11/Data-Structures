@@ -10,5 +10,5 @@ This repository contains the following Data structures and its application.
 * Union Find
 * Binary Search tree
 * Fenwick Tree (Range Query)
-* Suffic Array
+* Suffix Array
 * Balanced Binary Search Tree (AVL Tree)
